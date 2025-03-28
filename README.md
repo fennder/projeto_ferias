@@ -71,3 +71,6 @@ GROUP BY
 * A coluna `status` nas tabelas `SolicitacoesFerias` e `Aprovacoes` pode ser substituída por uma tabela de lookup para maior controle.
 * A visão `vw_dias_ferias_funcionario` pode ser modificada para incluir filtros por departamento, período, etc.
 * A tabela `Pagamentos` pode ser integrada com um sistema financeiro externo, se necessário.
+
+
+**GERAR O RELATÓRIO CONFORME ESTÁ DESCRITO NA VIEW COM PELO MENOS 50 REGISTROS**

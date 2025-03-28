@@ -76,4 +76,5 @@ GROUP BY
 **GERAR O RELATÓRIO CONFORME ESTÁ DESCRITO NA VIEW COM PELO MENOS 50 REGISTROS**
 
 *Com o auxilio do CHAT GPT crie uma procedure para inserir dados de férias*
+
 *E manter o histórico das férias com a trigger*
